@@ -8,4 +8,5 @@
  (route/not-found "<h1>Page not found</h1>"))
 
 (defn -main [& args]
+ (print "Server started... http://localhost:5000")
  (run-server myapp {:port 5000}))
