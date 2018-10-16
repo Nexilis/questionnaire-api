@@ -3,22 +3,22 @@ All notable changes to this project will be documented in this file. This change
 
 ## [Unreleased]
 ### Changed
-- Add a new arity to `make-widget-async` to provide a different widget shape.
+- Add a new arity to `something` to provide a different something.
 
 ## [0.1.1] - 2018-10-14
 ### Changed
-- Documentation on how to make the widgets.
+- Documentation on how to make... something
 
 ### Removed
-- `make-widget-sync` - we're all async, all the time.
+- `something` - we're all async, all the time.
 
 ### Fixed
-- Fixed widget maker to keep working when daylight savings switches over.
+- Fixed something to keep working when daylight savings switches over.
 
 ## 0.1.0 - 2018-10-14
 ### Added
 - Files from the new template.
-- Widget maker public API - `make-widget-sync`.
+- Something added to public API
 
 [Unreleased]: https://github.com/your-name/questionnaire-api/compare/0.1.1...HEAD
 [0.1.1]: https://github.com/your-name/questionnaire-api/compare/0.1.0...0.1.1
