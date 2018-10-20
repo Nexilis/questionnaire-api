@@ -1,6 +1,6 @@
 # blu-lama.api
 
-A Clojure api designed to serve as a back-end for a questionnaire.
+A Clojure API designed to serve as a back-end for a questionnaire.
 
 ## Prerequisites
 
